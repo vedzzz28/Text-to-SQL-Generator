@@ -1,0 +1,5 @@
+
+streamlit==1.25.0
+google-generative-ai==0.1.0
+python-dotenv==1.0.0
+sqlite3
