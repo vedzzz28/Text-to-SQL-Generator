@@ -30,7 +30,7 @@ This project provides a web application built using Streamlit that allows users 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Vedansh-sigma/Practise
+   git clone https://github.com/vedzzz28/Text-to-SQL-Generator
    cd Practise
    ```
 
